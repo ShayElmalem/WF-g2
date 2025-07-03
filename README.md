@@ -18,5 +18,5 @@ The code is released under the GPL-3.0 license.
 
 This code is part of our work on Wide-field photon correlation sensing. If you find this code usefull, please cite our paper:
 
-Shay Elmalem, Gur Lubin, Michael Wayne, Claudio Bruschini, Edoardo Charbon, and Dan Oron. "Massively Multiplexed Wide-field Photon Correlation Sensing." arXiv preprint arXiv:2412.16914 (2024).
-https://arxiv.org/abs/2412.16914
+Shay Elmalem, Gur Lubin, Michael Wayne, Claudio Bruschini, Edoardo Charbon, and Dan Oron, "Massively multiplexed wide-field photon correlation sensing," Optica 12, 451-458 (2025).
+https://doi.org/10.1364/OPTICA.550498
